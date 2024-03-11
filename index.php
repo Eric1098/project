@@ -14,7 +14,7 @@
             <div class="login-form">
                 <form id="form_reg" action="login.php" method="post">
                     <div class="form-fild">
-                        <p><label>Tên đăng nhập<span class="required">*</span></label></p>
+                        <p><label>username<span class="required">*</span></label></p>
                         <input type="text" name="username" class="form-control" id="username">
                     </div>
                     
